@@ -56,13 +56,12 @@ rock-vs-mine-prediction/
 
 ---
 
-## 🧪 How to Run Locally
-
 ```bash
-git clone https://github.com/PandeyPranjal/rock-vs-mine-prediction.git
+git clone https://github.com/pranjalpandey007/rock-vs-mine-prediction.git
 cd rock-vs-mine-prediction
 pip install -r requirements.txt
 streamlit run app.py
+```
 
 ---
 
